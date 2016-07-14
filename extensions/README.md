@@ -6,5 +6,6 @@ Microsoft Edge will soon support a new HTML, JavaScript and CSS based extension 
 
 We’re currently building and validating our extension platform and documentation with the help of a small number of extension authors. Please stay tuned for future updates!
 
-
+As of build 14291 for the Windows Insider Program, Microsoft Edge supports extensions!
+Extensions will be coming to the public in the Windows 10 Anniversary Update, on August 2nd 2016.
 
